@@ -1,0 +1,10 @@
+---
+name : kubernetes
+description : st2 content pack containing Kubernetes sensors
+keywords:
+  - kubenetes
+  - sensors
+  - thirdpartyresource
+version : 0.2
+author : Andrew Moore
+email : andrew.moore@pearson.com
