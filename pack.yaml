@@ -8,4 +8,4 @@ keywords:
 version : 0.2.0
 author : Andrew Moore
 email : andrew.moore@pearson.com
-stackstorm_version: >=2.1.0
+stackstorm_version: ">=2.1.0"
